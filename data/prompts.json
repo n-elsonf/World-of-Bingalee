@@ -1,0 +1,106 @@
+{
+  "prompts": [
+    {
+      "choice": "true",
+      "changes": [
+        {
+          "maxhp_delta": 20,
+          "health_delta": 0,
+          "energy_delta": 0,
+          "gold_delta": -5
+        },
+        {
+          "maxhp_delta": 0,
+          "health_delta": -10,
+          "energy_delta": 0,
+          "gold_delta": 0
+        }
+      ],
+      "description": "You see a beggar on the floor. Do you choose to give him 5 gold?"
+    },
+    {
+      "choice": "true",
+      "changes": [
+        {
+          "maxhp_delta": 0,
+          "health_delta": -10,
+          "energy_delta": 0,
+          "gold_delta": 0
+        },
+        {
+          "maxhp_delta": 0,
+          "health_delta": 0,
+          "energy_delta": 0,
+          "gold_delta": 0
+        }
+      ],
+      "description": "You approach a minions surrounding within a cauldron. Do you choose to put your hand inside?"
+    },
+    {
+      "choice": "true",
+      "changes": [
+        {
+          "maxhp_delta": 0,
+          "health_delta": -5,
+          "energy_delta": 1,
+          "gold_delta": 0
+        },
+        {
+          "maxhp_delta": 0,
+          "health_delta": 0,
+          "energy_delta": 0,
+          "gold_delta": 0
+        }
+      ],
+      "description": "You are suddenly ambushed by a group of raccoons. Do you wish to fight?"
+    },
+    {
+      "choice": "false",
+      "changes": [
+        {
+          "maxhp_delta": 10,
+          "health_delta": 0,
+          "energy_delta": 1,
+          "gold_delta": 0
+        }
+      ],
+      "description": "You enter the door and see a hooded figure walk towards you. He unveils his cloak and you see a surplus amount of energy drinks."
+    },
+    {
+      "choice": "false",
+      "changes": [
+        {
+          "maxhp_delta": 0,
+          "health_delta": 0,
+          "energy_delta": 0,
+          "gold_delta": 10
+        }
+      ],
+      "description": "A thief quickly runs at you but he slipped on a banana peel! He becomes unconscious and you robbed him of his money and scurry away."
+    },
+    {
+      "choice": "false",
+      "changes": [
+        {
+          "maxhp_delta": 0,
+          "health_delta": -10,
+          "energy_delta": 0,
+          "gold_delta": 0
+        }
+      ],
+      "description": "The door leads to a lecture hall full of minions who stopped and look at you. You hurrily scurry away and lose health out of embarassment."
+    },
+    {
+      "choice": "false",
+      "changes": [
+        {
+          "maxhp_delta": 5,
+          "health_delta": 5,
+          "energy_delta": 0,
+          "gold_delta": 0
+        }
+      ],
+      "description": "You see a table with a red potion on the center. You decide to drink it and feel a little stronger."
+    }
+  ]
+}

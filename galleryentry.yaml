@@ -1,0 +1,34 @@
+---
+# Members of your group.
+group:
+  - name: Nelson Feng
+    netid: nf243
+  - name: Madelyn Leon
+    netid: mkl78
+  - name: Carly Jiang
+    netid: cjj43
+  - name: Evan Chen
+    netid: ec723
+# Your PM.
+pm:
+  name: Clay Goodling
+  netid: jcg284
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "World of Bingalee"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/nf243/cs3110-finalproject"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is an dungeon-crawler game. You play as a hero who explores the
+  world of Bingalee, each inhabited with special enemies varying of
+  difficulty. In order to defeat them, you are given a hand of cards that vary
+  in effects such as dealing damage or increasing your defense against their 
+  attacks. However, playing these cards cost energy hence you must choose
+  carefully and wisely which cards you wish to play each turn. In the midst
+  between your battles, you can also choose randomly selected events for you
+  to embark on your own risk, consisting of chance events, shop events, and
+  camp events. You can choose these events at your own risk.
