@@ -1,5 +1,2 @@
-# cs3110-finalproject
-Madelyn Leon mkl78
-Carly Jiang cjj43
-Nelson Feng nf243
-Evan Chen ec723
+# World of Binglaee
+Created by Nelson Feng, Carly Jiang, Evan Chen, and Madelyn Leon
