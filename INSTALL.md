@@ -1,5 +1,5 @@
 # Instructions
-User is assumed should have ocaml and opam installed; however, if the user does \
+User is assumed should have OCaml and opam installed; however, if the user does \
 not, then follow installation instructions according to the [OCaml textbook](https://cs3110.github.io/textbook/chapters/preface/install.html).
 
 To play the game, run `make play` in the terminal.
